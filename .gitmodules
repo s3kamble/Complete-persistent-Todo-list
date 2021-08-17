@@ -1,0 +1,6 @@
+[submodule "TO-DO-Backend"]
+	path = TO-DO-Backend
+	url = https://github.com/s3kamble/TO-DO-Backend
+[submodule "Task-To-do-list"]
+	path = Task-To-do-list
+	url = https://github.com/s3kamble/Task-To-do-list
